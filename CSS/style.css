@@ -1,0 +1,29 @@
+body{
+    background-color: rgb(87, 1, 1);
+    border-style:groove;
+    border-width: 10px;
+    border-color: rgb(159, 159, 159);
+
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+h1{
+    text-align: center;
+    color: gold;
+}
+
+h2{
+    text-align: center;
+    color:  white;
+}
+
+img{
+    
+    width: 60%;
+    margin-left: 20%;
+    margin-right: 20%;
+    margin-bottom: 5%;
+
+    border-style:outset;
+    border-color: darkgray;
+}
