@@ -5,6 +5,12 @@ body{
     border-color: rgb(159, 159, 159);
 
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+
+main{
+    display: flex;         /* Enables flexbox layout */
+    justify-content: space-between; /* Optional: adds space between articles */
 }
 
 h1{
@@ -19,9 +25,9 @@ h2{
 
 img{
     
-    width: 60%;
-    margin-left: 20%;
-    margin-right: 20%;
+    width: 90%;
+    margin-left: 5%;
+    margin-right: 5%;
     margin-bottom: 5%;
 
     border-style:outset;
